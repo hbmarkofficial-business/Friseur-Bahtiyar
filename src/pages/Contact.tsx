@@ -138,10 +138,10 @@ const Contact = () => {
                       Oder rufen Sie uns direkt an:
                     </p>
                     <a 
-                      href="tel:015118311067" 
+                      href="tel:01732903543" 
                       className="block text-center text-primary font-semibold mt-2 hover:underline"
                     >
-                      015118311067
+                      01732903543
                     </a>
                   </div>
 
@@ -192,8 +192,8 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Adresse</h3>
                         <p className="text-muted-foreground">
-                          Färberstraße 54<br />
-                          90402 Nürnberg
+                          Alleestraße 127<br />
+                          44793 Bochum
                         </p>
                       </div>
                     </div>
@@ -205,10 +205,10 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Telefon</h3>
                         <a 
-                          href="tel:015118311067" 
+                          href="tel:01732903543" 
                           className="text-muted-foreground hover:text-primary transition-colors"
                         >
-                          015118311067
+                          01732903543
                         </a>
                       </div>
                     </div>
@@ -235,9 +235,9 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Öffnungszeiten</h3>
                         <ul className="text-muted-foreground space-y-1 text-sm">
-                          <li>Mo - Fr: 10:00 - 20:00</li>
-                          <li>Samstag: 10:00 - 19:00</li>
-                          <li>Sonntag: Geschlossen</li>
+                          <li>Mo - Mi, Fr: 9:00 - 18:30</li>
+                          <li>Samstag: 8:30 - 17:00</li>
+                          <li>Do, So: Geschlossen</li>
                         </ul>
                       </div>
                     </div>
@@ -245,7 +245,7 @@ const Contact = () => {
 
                   <div className="aspect-video rounded-sm overflow-hidden border border-border mt-8">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2593.935844488252!2d11.069183276892435!3d49.44792955903806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479f57a835434d4d%3A0xfba938ebd99d6f67!2sTop%20Salon%20-%20N%C3%BCrnberg!5e0!3m2!1sde!2sde!4v1769779552025!5m2!1sde!2sde"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19879.2460389407!2d7.162102174316409!3d51.47824419999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8e065fd0a2aaf%3A0xec4fafe002f44a60!2sFriseur%20Bahtiyar%20-%20Bochum!5e0!3m2!1sde!2sde!4v1771715590463!5m2!1sde!2sde"
                       width="100%"
                       height="100%"
                       style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
